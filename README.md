@@ -1,6 +1,6 @@
 # letterboxd-watchlist-to-txt
 
-this code converts your Letterboxd watchlist into a .txt file.
+this programme converts your Letterboxd watchlist into a .txt file.
 
 the code is written in Python 3.7. To use the programme, you need to have Python in your computer.
 
